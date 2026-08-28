@@ -11,7 +11,7 @@ set -Eeuo pipefail
 #
 # WARNING:
 # Existing /opt/jfrog/artifactory will be deleted.
-# sudo bash test.sh ----> use this do not use sh
+# sudo bash <script.sh> ----> use bash for script execution do not use sh
 ############################################################
 
 ARTIFACTORY_VERSION="7.161.19"
